@@ -1,0 +1,80 @@
+
+---Downloaded files---
+The import files for: Main Demo were successfully downloaded!
+Initial max execution time = 10000000
+Files info:
+Site URL = http://localhost/alicewordpress
+Data file = C:\wamp64\www\alicewordpress/wp-content/uploads/2016/12/demo-content-import-file_2016-12-29__07-36-12.xml
+Widget file = C:\wamp64\www\alicewordpress/wp-content/uploads/2016/12/demo-widgets-import-file_2016-12-29__07-36-12.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_cat T-shirts
+[WARNING] Failed to import product_cat Albums
+
+
+---Importing widgets---
+Main Sidebar : 
+
+Search - No Title - Widget already exists
+Categories - No Title - Imported
+Archives - No Title - Imported
+Calendar - No Title - Imported
+Creativa - Recent Projects - No Title - Imported
+Creativa - Social Icons - No Title - Imported
+Tag Cloud - No Title - Imported
+
+Single Post Sidebar : 
+
+Search - No Title - Imported
+
+Footer Area 1 : 
+
+Text - No Title - Imported
+Creativa - Social Icons - Get Connected - Imported
+
+Footer Area 2 : 
+
+Meta - Quick Links - Imported
+
+Footer Area 3 : 
+
+Recent Posts - No Title - Imported
+
+Footer Area 4 : 
+
+Recent Comments - No Title - Imported
+
+Sidebar Navigation : 
+
+Creativa - Social Icons - No Title - Imported
+Creativa - Recent Projects - No Title - Imported
+
+Shop Sidebar : 
+
+woocommerce_product_search - No Title - Site does not support widget
+woocommerce_product_categories - Product Categories - Site does not support widget
+woocommerce_layered_nav - Filter by - Site does not support widget
+woocommerce_layered_nav_filters - Active Filters - Site does not support widget
+woocommerce_price_filter - Filter by price - Site does not support widget
+woocommerce_top_rated_products - Top Rated Products - Site does not support widget
+
+stag-custom-sidebars-areas : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+
